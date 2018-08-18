@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 sudo apt update
 
+sudo apt install git -y
 sudo apt install openssh-server -y
 sudo apt install apache2 -y
 sudo apt install curl -y
