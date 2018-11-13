@@ -6,6 +6,7 @@ sudo apt install openssh-server -y
 sudo apt install apache2 -y
 sudo apt install curl -y
 sudo apt install mysql-server -y
+sudo apt install zip
 
 sudo apt install php libapache2-mod-php php-mysql -y
 sudo apt install php-cli -y
